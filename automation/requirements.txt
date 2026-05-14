@@ -1,0 +1,10 @@
+playwright
+pypdf2
+python-dotenv
+requests
+beautifulsoup4
+lxml
+flask
+flask-cors
+openai
+pandas
