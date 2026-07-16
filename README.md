@@ -5,6 +5,10 @@
 
 O **ICO (Intelligent Career Optimizer)** não é apenas um disparador de e-mails; é uma infraestrutura de IA projetada para elevar suas chances reais de contratação. Ele automatiza a busca, analisa a compatibilidade técnica e cultural, e oferece insights profundos para que você esteja sempre um passo à frente no recrutamento.
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=devthomaseduardo&repo=cv_autoenvio&color=orange" alt="Repository Views" />
+</p>
+
 ---
 
 ## 🌟 Diferenciais Estratégicos
@@ -89,3 +93,11 @@ graph TD
 
 Desenvolvido com foco em **Alta Performance** e **Posicionamento Profissional**. 
 © 2026 ICO Team.
+
+---
+
+> **📊 Visualizações deste repositório**  
+> O badge acima mostra o número de visualizações únicas deste README (atualizado automaticamente via [komarev.com](https://komarev.com/ghpvc)).  
+> Obrigado pela visita! Se o projeto te inspirou, considere deixar uma estrela ⭐️.
+
+**Padrão aplicado em todos os repositórios de Thomas Eduardo.**
